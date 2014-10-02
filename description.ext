@@ -1,0 +1,16 @@
+overviewText = "";
+overviewTextLocked = "Echo 12";
+author = "Spirit"; 
+onLoadName = "Grundausbildung";
+loadScreen = "";
+respawn = 3;
+respawndelay = 5;
+disabledAI = 1;
+RespawnDialog = 1;
+
+class Header
+{
+	gameType=Coop;
+	minPlayers=1;
+	maxPlayers=21;
+};
